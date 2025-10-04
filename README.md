@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um apaixonado por tecnologia e programação. Atualmente, estou a aprimorar as minhas competências em desenvolvimento web, com foco em JavaScript e na criação de aplicações interativas e funcionais.
+Sou um apaixonado por tecnologia e programação. Atualmente, cursando ADS na Descomplica.
 
 ---
 
@@ -28,6 +28,9 @@ Sou um apaixonado por tecnologia e programação. Atualmente, estou a aprimorar 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
@@ -39,6 +42,10 @@ Sou um apaixonado por tecnologia e programação. Atualmente, estou a aprimorar 
 - **Link para o Projeto:** [UCAPP no GitHub](https://github.com/JONIS7/UCAPP)
 - **Ver Ao Vivo:** [Clique aqui para ver o demo no Netlify](https://appuc.netlify.app/)
 
+### 🔗 Devlinks
+- **Descrição:** O Devlinks é um agregador de links pessoal, desenvolvido para centralizar e exibir os perfis sociais e portfólios mais importantes de um utilizador numa única página. Inspirado por plataformas como o Linktree, este projeto apresenta um design limpo e responsivo com uma funcionalidade de tema claro/escuro, permitindo uma experiência de utilizador personalizada.
+- **Link para o Projeto:** [Devlinks no GitHub](https://github.com/JONIS7/Dev-links)
+- **Ver Ao Vivo:** [Clique aqui para ver o demo](https://jonis7.github.io/Dev-links/)
 ---
 
 ## 📫 Como me Encontrar
