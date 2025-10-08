@@ -31,7 +31,7 @@ Sou um apaixonado por tecnologia e programação. Atualmente, cursando ADS na De
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40"/>
 </p>
 
 ---
