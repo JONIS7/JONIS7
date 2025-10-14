@@ -6,7 +6,10 @@
 
 ## 🚀 Sobre Mim
 
-Sou um apaixonado por tecnologia e programação. Atualmente, cursando ADS na Descomplica.
+- 👨‍💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
+- 🌱 Focado no aprendizado de **React.js**, **JavaScript** e no ecossistema Front-End.
+- 💡 Apaixonado por tecnologia e por transformar ideias em código funcional.
+- 🎯 Buscando minha primeira oportunidade de estágio na área de desenvolvimento!
 
 ---
 
@@ -43,10 +46,24 @@ Sou um apaixonado por tecnologia e programação. Atualmente, cursando ADS na De
 - **Link para o Projeto:** [UCAPP no GitHub](https://github.com/JONIS7/UCAPP)
 - **Ver Ao Vivo:** [Clique aqui para ver o demo no Netlify](https://appuc.netlify.app/)
 
+### 💰 Costs - Gerenciador de Projetos
+- **Descrição:** Uma aplicação web completa para gerenciamento de custos de projetos, construída em React. Permite ao usuário criar, visualizar, editar e deletar projetos, adicionando serviços e controlando o orçamento.
+- **Link para o Projeto:** [Costs no GitHub](https://github.com/JONIS7/costs-react-app)
+- **Ver Ao Vivo:** [Clique aqui para ver o demo no GitHub Pages](https://jonis7.github.io/costs-react-app/)
+
 ### 🔗 Devlinks
 - **Descrição:** O Devlinks é um agregador de links pessoal, desenvolvido para centralizar e exibir os perfis sociais e portfólios mais importantes de um utilizador numa única página. Inspirado por plataformas como o Linktree, este projeto apresenta um design limpo e responsivo com uma funcionalidade de tema claro/escuro, permitindo uma experiência de utilizador personalizada.
 - **Link para o Projeto:** [Devlinks no GitHub](https://github.com/JONIS7/Dev-links)
 - **Ver Ao Vivo:** [Clique aqui para ver o demo](https://jonis7.github.io/Dev-links/)
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JONIS7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de JONIS7"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONIS7&layout=compact&theme=dark" alt="Top Linguagens de JONIS7"/>
+</p>
+
 ---
 
 ## 📫 Como me Encontrar
