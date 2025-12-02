@@ -62,14 +62,10 @@
 - **Link para o Projeto:** [Devlinks no GitHub](https://github.com/JONIS7/Dev-links)
 - **Ver Ao Vivo:** [Clique aqui para ver o demo](https://jonis7.github.io/Dev-links/)
 
----
-
-### 📊 Minhas Estatísticas no GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JONIS7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de JONIS7"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONIS7&layout=compact&theme=dark" alt="Top Linguagens de JONIS7"/>
-</p>
-
+### 🖥️ CyberCoachFaceit
+- **Descrição:** Feito para mostrar estatisticas de players da platoforma faceit com visual parecido com hltv e com informaçoes de pontos fracos e forte dos players.
+- **Link para o Projeto:** [Cybern no GitHub](https://github.com/JONIS7/cyberfaceit)
+- **Ver Ao Vivo:** [DEMO](https://cyberfaceit.netlify.app/)
 ---
 
 ## 📫 Como me Encontrar
