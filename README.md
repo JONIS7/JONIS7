@@ -7,7 +7,7 @@
 ## 🚀 Sobre Mim
 
 - 👨‍💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
-- 🌱 Focado no aprendizado de **React.js**, **JavaScript** e no ecossistema Front-End.
+- 🌱 Focado no aprendizado.
 - 💡 Apaixonado por tecnologia e por transformar ideias em código funcional.
 - 🎯 Buscando minha primeira oportunidade de estágio na área de desenvolvimento!
 
@@ -40,6 +40,10 @@
   </a>
   <a href="https://github.com/JONIS97" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"  />        
   </a>
 </p>
 
