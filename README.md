@@ -66,10 +66,10 @@
 - **Link para o Projeto:** [Devlinks no GitHub](https://github.com/JONIS7/Dev-links)
 - **Ver Ao Vivo:** [Clique aqui para ver o demo](https://jonis7.github.io/Dev-links/)
 
-### 🖥️ CyberCoachFaceit
+### 🖥️ Cs2Hub
 - **Descrição:** Feito para mostrar estatisticas de players da platoforma faceit com visual parecido com hltv e com informaçoes de pontos fracos e forte dos players.
 - **Link para o Projeto:** [Cybern no GitHub](https://github.com/JONIS7/cyberfaceit)
-- **Ver Ao Vivo:** [DEMO](https://cyberfaceit.netlify.app/)
+- **Ver Ao Vivo:** [DEMO](https://cs2hub.netlify.app/)
 ---
 
 ## 📫 Como me Encontrar
