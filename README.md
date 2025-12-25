@@ -1,10 +1,10 @@
-# Olá, eu sou o Jonathan Willian! 👋
+# Olá, eu sou o Jonathan Willian! 
 
 ### Um desenvolvedor focado em encontrar soluções criativas para problemas do dia a dia.
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 - 👨‍💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
 - 🌱 Focado no aprendizado.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -49,7 +49,7 @@
 
 ---
 
-## ✨ Projetos em Destaque
+##  Projetos em Destaque
 
 ### 📱 App de Controle de Validade
 - **Descrição:** Uma aplicação web completa para registo de medicamentos com controlo de data de validade, armazenamento local, alertas inteligentes e integração com a Agenda Google para criação de lembretes.
@@ -72,7 +72,7 @@
 - **Ver Ao Vivo:** [DEMO](https://cs2hub.netlify.app/)
 ---
 
-## 📫 Como me Encontrar
+##  Como me Encontrar
 
 <p align="left">
   <a href="mailto:jonisehis7@gmail.com">
