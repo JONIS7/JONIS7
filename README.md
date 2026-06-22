@@ -32,6 +32,11 @@
 
 ##  Projetos em Destaque
 
+### 🖥️ Extensão CS2HUB
+- **Descrição:** Estastiticas avançadas para players da Faceit.
+- **Link para o Projeto:** [CS2HUB na Chrome web store](https://chromewebstore.google.com/detail/cs2hub/bojnaignlohhcbbpfpgmencghkiiinhg)
+---
+
 ### 🖥️ Cs2Hub
 - **Descrição:** Feito para mostrar estatisticas de players da platoforma faceit com visual parecido com hltv e com informaçoes de pontos fracos e forte dos players.
 - **Link para o Projeto:** [Cybern no GitHub](https://github.com/JONIS7/cyberfaceit)
