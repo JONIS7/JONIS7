@@ -34,7 +34,7 @@
 
 ### 🖥️ Extensão CS2HUB
 - **Descrição:** Estastiticas avançadas para players da Faceit.
-- **Link para o Projeto:** [CS2HUB na Chrome web store](https://chromewebstore.google.com/detail/cs2hub/bojnaignlohhcbbpfpgmencghkiiinhg)
+- **Link para o Projeto:** [Chrome web store](https://chromewebstore.google.com/detail/cs2hub/bojnaignlohhcbbpfpgmencghkiiinhg)
 ---
 
 ### 🖥️ Cs2Hub
