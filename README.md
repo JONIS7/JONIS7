@@ -32,21 +32,6 @@
 
 ##  Projetos em Destaque
 
-### 📱 App de Controle de Validade
-- **Descrição:** Uma aplicação web completa para registo de medicamentos com controlo de data de validade, armazenamento local, alertas inteligentes e integração com a Agenda Google para criação de lembretes.
-- **Link para o Projeto:** [UCAPP no GitHub](https://github.com/JONIS7/UCAPP)
-- **Ver Ao Vivo:** [Clique aqui para ver o demo no Netlify](https://appuc.netlify.app/)
-
-### 💰 Costs - Gerenciador de Projetos
-- **Descrição:** Uma aplicação web completa para gerenciamento de custos de projetos, construída em React. Permite ao usuário criar, visualizar, editar e deletar projetos, adicionando serviços e controlando o orçamento.
-- **Link para o Projeto:** [Costs no GitHub](https://github.com/JONIS7/costs-react-app)
-- **Ver Ao Vivo:** [Clique aqui para ver o demo no GitHub Pages](https://jonis7.github.io/costs-react-app/)
-
-### 🔗 Devlinks
-- **Descrição:** O Devlinks é um agregador de links pessoal, desenvolvido para centralizar e exibir os perfis sociais e portfólios mais importantes de um utilizador numa única página. Inspirado por plataformas como o Linktree, este projeto apresenta um design limpo e responsivo com uma funcionalidade de tema claro/escuro, permitindo uma experiência de utilizador personalizada.
-- **Link para o Projeto:** [Devlinks no GitHub](https://github.com/JONIS7/Dev-links)
-- **Ver Ao Vivo:** [Clique aqui para ver o demo](https://jonis7.github.io/Dev-links/)
-
 ### 🖥️ Cs2Hub
 - **Descrição:** Feito para mostrar estatisticas de players da platoforma faceit com visual parecido com hltv e com informaçoes de pontos fracos e forte dos players.
 - **Link para o Projeto:** [Cybern no GitHub](https://github.com/JONIS7/cyberfaceit)
