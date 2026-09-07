@@ -6,10 +6,10 @@
 
 ##  Sobre Mim
 
-- 👨‍💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
-- 🌱 Focado no aprendizado.
-- 💡 Apaixonado por tecnologia e por transformar ideias em código funcional.
-- 🎯 Buscando minha primeira oportunidade de estágio na área de desenvolvimento!
+-  Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
+-  Focado no aprendizado.
+-  Apaixonado por tecnologia e por transformar ideias em código funcional.
+-  Buscando minha primeira oportunidade de estágio na área de desenvolvimento!
 
 ---
 
