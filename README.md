@@ -32,7 +32,7 @@
 
 ##  Projetos em Destaque
 
-### 🖥️ Extensão CS2HUB
+### 🖥️ Extensão CS2HUB [+600 Downloads]
 - **Descrição:** Estastiticas avançadas para players da Faceit.
 - **Link para o Projeto:** [Chrome web store](https://chromewebstore.google.com/detail/cs2hub/bojnaignlohhcbbpfpgmencghkiiinhg)
 ---
