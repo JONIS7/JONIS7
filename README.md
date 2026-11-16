@@ -7,25 +7,12 @@
 ##  Sobre Mim
 
 -  Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
--  Focado no aprendizado.
--  Apaixonado por tecnologia e por transformar ideias em código funcional.
--  Buscando minha primeira oportunidade de estágio na área de desenvolvimento!
-
 ---
 
 ## Tecnologias e Ferramentas
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40"/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://github.com/JONIS97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,gcp,py,react,git,github,java,nodejs,express,ts,nextjs,tailwind,mongodb&perline=16" alt="Tecnologias e Ferramentas" />
 </p>
 
 ---
@@ -41,6 +28,12 @@
 - **Descrição:** Feito para mostrar estatisticas de players da platoforma faceit com visual parecido com hltv e com informaçoes de pontos fracos e forte dos players.
 - **Link para o Projeto:** [Cybern no GitHub](https://github.com/JONIS7/cyberfaceit)
 - **Ver Ao Vivo:** [DEMO](https://cs2hub.netlify.app/)
+---
+
+### 💻 MediApp — Sistema de Gestão Clínica
+
+- Descrição: Sistema full-stack para gestão de clínicas médicas (médicos, pacientes, consultas e prescrições digitais com geração de receitas em PDF) feito com Node.js, Express, Next.js, TypeScript, Tailwind CSS e MongoDB.
+- Link para o Projeto: [MediApp no GitHub](https://github.com/JONIS7/MediApp)
 ---
 
 ##  Como me Encontrar
